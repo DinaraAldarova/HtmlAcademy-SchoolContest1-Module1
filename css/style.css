@@ -599,7 +599,6 @@ body {
 .feedback-column:first-child {
     padding-left: 70px;
     padding-right: 70px;
-    order: 2;
 }
 
 .feedback h2 {
